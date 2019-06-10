@@ -3,6 +3,14 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overlfow: hdden;
+   width: 60px;
+}
+
+.navbar {
+  display: inline;
+  width: 60px
+  float: left;
 }
 
 /*.container puts the wepage in a container to enhance the look of the content.*/
