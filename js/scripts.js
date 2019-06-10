@@ -5,10 +5,10 @@ $(document).ready(function(){
 
     // var array = [$("input:text[name=q1]").val(), $("input:text[name=q1]").val(), $("input:text[name=q1]").val()];
     //
-    // for (num = 0; num < 3; num++) {
-    //   $("ul#list li:nth-child(" + (num + 1) + ")").text(array[num]);
+    // for (var i = 0; i < array.length; i++) {
+    //   $("ul#list li:nth-child(" + (i + 1) + ")").text(array[i]);
     // }
-    //
+
     //
     //
     //

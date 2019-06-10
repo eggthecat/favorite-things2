@@ -1,3 +1,10 @@
+/* vertical navbar */
+#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 /*.container puts the wepage in a container to enhance the look of the content.*/
 .container {
   margin-left: auto;
